@@ -4,9 +4,6 @@
 # @Last Modified by:   TuoniZhou
 # @Last Modified time: 2017-07-24 13:13:06
 
-#调用系统模块
-import sys
-
 #用来保存学生的信息
 stuinfos = []
 
